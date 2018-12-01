@@ -1,2 +1,2 @@
 # structures-practice
-A repo to tactice data estructures
+A repo to practice data estructures
